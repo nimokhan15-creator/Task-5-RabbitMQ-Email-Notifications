@@ -1,0 +1,5 @@
+com\example\emailservice\EmailSenderService.class
+com\example\emailservice\EmailNotificationListener.class
+com\example\emailservice\RabbitMQConfig.class
+com\example\emailservice\EmailServiceApplication.class
+com\example\emailservice\FileUploadedEvent.class
